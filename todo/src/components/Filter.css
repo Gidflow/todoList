@@ -1,0 +1,9 @@
+.filter{
+    height: 3.2rem;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;
+    border-bottom: 2px solid gray;
+    
+}
